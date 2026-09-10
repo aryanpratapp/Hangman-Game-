@@ -1,3 +1,4 @@
+print("Welcome to hangman game")
 import random
 word_list = ["aardvark", "baboon", "camel"]
 
